@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pets>
+   <owner>Alice</owner>
+   <dog>Spot</dog>
+   <dog>Max</dog>
+   <cat>Fluffy</cat>
+   <bird>Tweety</bird>
+</pets>

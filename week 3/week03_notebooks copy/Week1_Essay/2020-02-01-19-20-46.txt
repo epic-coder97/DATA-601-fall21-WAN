@@ -1,0 +1,13 @@
+<p> This paper was prepared by David Donoho for the John Tukey Centennial on Sep 18, 2015 at Princeton, NJ. In this paper, he organizes insights that have been published over the years about this new would-be field of Data Science, and put forward a framework for understanding its basic questions and procedures. It reviews some ingredients of the “Data Science moment”. There are many visions of Data Science and its relation to Statistics, says author describing certain recurring ‘Memes’. Big data Meme - ‘Big data’ as a criterion for meaningful distinction between statistics and data science can be immediately rejected. Skills Meme - The new skills attracting so much media attention are not skills for better solving the real problem of inference from data. They are coping skills for dealing with organizational artifacts of large-scale cluster computing. Jobs Meme- A successful data scientist needs to be able to become one with the data by exploring it and applying rigorous statistical analysis.</p> 
+<p> More than 50 years ago, John Tukey called for a reformation of academic statistics. He prophesied that something like today’s Data Science moment would be coming. In ‘The Future of Data Analysis’, he pointed to the existence of an as-yet unrecognized science, whose subject of interest was learning from data, or ‘data analysis’. This paper was published in 1962 in “The Annals of Mathematical Statistics”, the central venue for mathematically-advanced statistical research of the day. Tukey’s vision embedded statistics in a larger entity. Tukey’s central claim was that this new entity, which he called ‘Data Analysis’, was a new science, rather than a branch of mathematics. The three constituents judged essential by most as to what makes a science are intellectual content, organization in an understandable form, reliance upon the test of experience as the ultimate standard of validity. ‘Data analysis passes all three tests, and I would regard it as a science’ says Tukey. He identified four driving forces in the new science:</p> 
+<p> 1. The formal theories of statistics</p> 
+<p> 2. Accelerating developments in computers and display devices</p> 
+<p> 3. The challenge, in many fields, of more and ever larger bodies of data </p> 
+<p>4. The emphasis on quantification in an ever wider variety of disciplines</p> 
+<p>Data Analysis is not only a scientific field, it is as complex as any major field of science.</p>
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+No files were attached to this submission.

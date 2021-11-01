@@ -1,0 +1,8 @@
+﻿50 Years of Data Science
+
+
+	In the first 10 pages of 50 Years of Data Science, David Donoho sets up a critical look at the phenomenon that is Data Science. In light of the initiatives springing up around this supposedly new field, Mr. Donoho questions whether the science of exploring/analyzing data is truly something novel and what, if anything, makes the field of DS so different from Statistics. Mr. Donoho’s summarizes the main tropes that are used to separate DS from Statistics into three ‘memes’ before tackling each. The three memes he recognizes and addresses are: Big Data, Skills, and Jobs.
+
+	Mr. Donaho first addresses ‘Big Data’, often used by universities to differentiate DS and Statistics. DS exists to address the large volumes of data we now need to contend with, they claim--but traditional statistics have been dealing with census data for decades, so that is nothing new. He then moves onto the ‘Skills’ meme, which suggests that DS requires advanced computer skills, but he points out that many of these are largely unnecessary and that there are better ways to solve these problems. Finally he moves on to ‘Jobs’; lots of people are trying to hire Data Scientists, but it seems what DS graduates need is not academic experience but work experience instead.
+
+	Mr. Donoho concedes that there is room for DS as the science of “learning from data” rather than a simple reshashing of Statistics. As science in general becomes a dataset to be learned from, the ability to analyze and study that data will become ever more important-- and DS is the field to do that.

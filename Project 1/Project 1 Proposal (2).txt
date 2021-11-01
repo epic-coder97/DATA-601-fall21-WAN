@@ -1,0 +1,15 @@
+Project 1 Proposal
+Top of Form
+Bottom of Form
+
+Data source: Spotify Top 200 Charts Global (2017-2021)+API data | Kaggle (https://www.kaggle.com/bartomiejczyewski/spotify-top-200-weekly-global-20172021)
+API: Welcome to Spotipy! — spotipy 2.0 documentation (https://spotipy.readthedocs.io/en/2.19.0/)
+I already had it in mind to use Spotify data due to an internship event that I recently attended. There they mentioned about Spotify API among many other things. I might try to master the API while working on the project. But, if I am unable to get required data via the API, above data source is the one I will be using.
+
+I read various blogs on internet for getting free datasets for Data Science projects. ( https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/)) After going through the list provided by them , I used Dataset Search https://datasetsearch.research.google.com/
+
+The data is free to download. And no work has been done on it yet.
+The file is around 9Mb in size. 
+Column – 12 and Rows – 44201 rows
+
+

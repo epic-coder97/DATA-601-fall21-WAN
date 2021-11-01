@@ -1,0 +1,9 @@
+<p>Although data science isn’t a new profession, it has evolved considerably over the last 50 years. In 1962 when mathematician John W. Tukey predicted the effect of modern-day electronic computing on data analysis as an empirical science. Tukey’s predictions occurred well before the explosion of big data &amp; ability to perform complex and large scale analyses. Throughout the 2000s, various academic journals began to recognize data science as an emerging discipline. In 2005, the National Science Board advocated for data science career path to ensure that there would be experts who could successfully manage digital data collection.</p>
+<p>In 2009, Google Chief Economist Hal Varian told the Mc Kinsey Quarterly that he was concerned with the deficit of individuals qualified to analyze the “free and ubiquitous data” being generated. He said, “The complimentary scarce factor is the ability to understand the data and exact value from it. Today’s data scientist know Varian was right. Over last six years, data science has continued to evolve and permeate nearly every industry that generates or relies on data. In 2010 article published in The Economist Kenneth Cukier says data scientists “combine the skills of software programmer, statistician and storyteller to extract the nuggets of gold hidden under mountains of data.”</p>
+<p>History teaches us many lessons, here’s what we can learn from data science history:</p>
+<ol>
+ <li>Don’t take data for granted.
+ <li>Think big.
+ <li>Know the content.
+</ol>
+<p>Data Science will undoubtedly continue to evolve as industry needs change. However data scientists will always be in demand. As long as data exists, there must be highly skilled individuals who can analyze it.</p>

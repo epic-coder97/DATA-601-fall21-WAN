@@ -1,0 +1,17 @@
+50 Years of Data Science 
+ 
+Author D. Donoho starts the article by talking about today’s Data Science moment. 
+He mentions the "DSI" Data Science Initiative, announced by the University of Michigan as a $100 million initiative. 
+The author also talks about the rivalry between Data Science and Statistics. 
+Many applied statisticians consider their professional career as a series of exercises in the collection, management, processing, 
+analysis, visualization, and interpretation of vast amounts of data. They find the new DSI initiative a little confusing. 
+As they have already been doing the above exercise daily for their entire careers.
+The author also compared the definitions of Data Scientists and Statistics. According to him, the definition of statistics is confusing since 
+it seems to already encompass anything that the definition of data scientist might encompass. The author tells us how Data Science is just statistics 
+by giving an example of when physicists do mathematics, they do not call it number science. The same should be true for DS and statistics. 
+Later, he talks about the "big data meme" and how it started with Mark Schlissel’s use of the term "big data" in his press release. 
+He also talks about the "skills meme." and how Hadoop (a variant of Map/Reduce) is a skill needed to master Big Data.
+Regarding the future of data analysis, Donoho cites John Sullivan, who published a paper in 1962 explaining why he thought 
+the research scope of statistics needed to be dramatically widened and redirected. John's 1962 list of factors explains 
+the role of statistics in the new science of Data Science. 
+ 

@@ -1,0 +1,9 @@
+<p>50 Years Of Data Science: </p>
+<p>It was past 50 years ago where the professor named john Tukey pointed out the then “un-recognized term” data science whose primary focus and interest was in the domain of data analysis. From then, there where many scientific discoveries and innovations on the basis of how data is being learned. The combination of logical revelation and innovations includes the collection, management and understanding of tremendous measure of different information related with various clusters of scientific applications. </p>
+<p> Though the two terms,’Data Science’ and ‘Statistics’ falls under the same category they have their own respective differences and definitions. Statistics is generally a piece of what goes into the data science. On the other hand Data Scientist is an individual who has the information and aptitudes to direct modern and efficient investigations of information. A Data Scientist removes bits of knowledge from informational collections for item advancement and assesses and distinguishes key chances. </p>
+<p>The term big data is generally defined as a huge data sets from various complex data sources .Data Scientist have been good dealing with huge informational indexes for quite a while considerably after the meaning of enormous was growing. </p>
+<p>Researchers have built up their aptitudes to take care of the issues that they are intrigued in,using Data science and amazing scientific quantitative programming conditions demonstrated on math,not for better taking care of the genuine issue of deduction from data,but managing authoritative rarities of cluster computing. </p>
+<p>A good data scientist is a one ,who not only explore data by performing statistical analysis but also understand the deployment and should be able to maintain the system functionality. </p>
+<p> </p>
+<p> </p>
+<p> </p>

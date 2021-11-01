@@ -1,0 +1,18 @@
+<p><strong>Data Science</strong> has become evident to design an expected vast store of big data, this has a long history and has been discussed by scientists, statisticians, librarians, computer scientists and others for years.</p>
+<br>
+<p>Below are the few references as how different authors mentioned each of their views:</p>
+<ul>
+ <li>In <strong>1992</strong>, John W. Tukey writes in “<a href="http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.aoms/1177704711"><span style="text-decoration: underline;">The Future of Data Analysis</span></a>” , referring to the merging of statistics and computer, at a time when statistical results were presented in hours, rather than the days or weeks it would take if done by hand.
+ <li>Peter Naur, in <strong>1974 </strong>published Concise Survey of Computer Methods in Sweden and the United States.
+ <li>The journal <a href="http://www.springer.com/computer/database+management+%26+information+retrieval/journal/10618"><span style="text-decoration: underline;">Data Mining and Knowledge Discovery</span></a> was launched in <strong>1977</strong>.
+ <li>Jacob Zahavi quoted in “<a href="http://knowledge.wharton.upenn.edu/article.cfm?articleid=103"><span style="text-decoration: underline;">Mining Data for Nuggets of Knowledge</span></a>” in December <strong>1999</strong>.
+ <li>In <strong>2001</strong>, William S. Cleveland published &quot;<a href="http://cm.bell-labs.com/cm/ms/departments/sia/doc/datascience.pdf"><span style="text-decoration: underline;">Data Science: An Action Plan for Expanding the Technical Areas of the Field of Statistics</span></a>.&quot; Also, Leo Breiman publishes “Statistical Modeling: The Two Cultures” in same year.
+ <li>April <strong>2002 </strong>Launch of <a href="http://www.codata.org/dsj/index.html"><span style="text-decoration: underline;">Data Science Journal</span></a>, published papers on “the management of data and databases in Science and Technology.”
+ <li>January <strong>2003 </strong>Launch of <a href="http://www.jds-online.com/"><span style="text-decoration: underline;">Journal of Data Science</span></a>: “By ‘Data Science’ .
+ <li>January <strong>2009 </strong><a href="http://www.nitrd.gov/About/Harnessing_Power_Web.pdf"><span style="text-decoration: underline;">Harnessing the Power of Digital Data for Science and Society</span></a> was published.
+ <li>May <strong>2009 </strong>Mike Driscoll writes in “<a href="http://medriscoll.com/post/4740157098/the-three-sexy-skills-of-data-geeks"><span style="text-decoration: underline;">The Three Sexy Skills of Data Geeks</span></a>.
+ <li>June <strong>2009 </strong>Nathan Yau writes in “<a href="http://flowingdata.com/2009/06/04/rise-of-the-data-scientist/"><span style="text-decoration: underline;">Rise of the Data Scientist</span></a>” .
+</ul>
+<br>
+<p>This summarizes a very short history of Data Science.</p>
+<p> </p>

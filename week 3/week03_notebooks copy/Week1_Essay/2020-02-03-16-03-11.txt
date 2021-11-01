@@ -1,0 +1,10 @@
+<p>My Understanding from the post is that:</p> 
+<p> </p> 
+<p>·        Data science is a combination of complex statistics and basic computer science, whose main motto is to make sense of the data.</p> 
+<p>·        In 1962, John W. Tukey published &quot;The Future of Data Analysis&quot; in which he stated that, evolving mathematical statistics made him realize that his central interest is in data analysis, questioning how vital and important is the rise of stored-program electronic computer. In 1947, he coined the term &quot;bit&quot; and in 1977 he also published &quot;Exploratory Data Analysis&quot;.</p> 
+<p>·        In 1974, Peter Naur published Concise Survey of Computer Methods around the concept of data as defined in IFIP Guide to Concepts and Terms in Data Processing, stating data to be representation of facts and ideas which is capable of being modified by a process.</p> 
+<p>·        From 1989 to 2000 many people have published journals, books regarding Data Science and concepts included such as data mining, data analysis and different challenges that come cross during data creation.</p> 
+<p>·        By the year 2010 Drew Conway came up with a Venn Diagram representing all the aspects one need to master to become a fully component data scientist.</p> 
+<p>·        In 2011, multiple people came up with their own notion of how &quot;Data Science&quot; is a best suitable name for what we do with statistics, visualization, data analysis etc., By September 2011 D.J Patil working along with Jeff Hammerbacher writes that, terms such as Business analyst, Data Analyst, Research scientist doesn't properly justify the job role they play in some of the organizations like Sun, LinkedIn etc., and says that Data Scientist satisfies the role exactly.</p> 
+<p> </p> 
+<br>
